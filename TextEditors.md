@@ -1,5 +1,9 @@
 # Notepad ++
 
+```
+start notepad++ newfile.txt
+```
+
 ## Themes
 Create a themes subfolder so you have: `C:\Program Files\Notepad++\themes`
 
@@ -26,6 +30,6 @@ Then you might need to go into Settings / Style Configurator and check "Enable g
 
 ## Nice settings
 
-* Settings / Preferences / MISC. / Clickable link settings
-* Settings / Preferences / Language / Tab settings
+- Settings / Preferences / MISC. / Clickable link settings
+- Settings / Preferences / Language / Tab settings
 
