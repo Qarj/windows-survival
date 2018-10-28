@@ -5,7 +5,7 @@ start notepad++ newfile.txt
 ```
 
 ## Themes
-Create a themes subfolder so you have: `C:\Program Files\Notepad++\themes`
+Create a themes sub folder so you have: `C:\Program Files\Notepad++\themes`
 
 Restart.
 
