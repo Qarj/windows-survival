@@ -6,5 +6,7 @@
 
 ### [Windows Image Backup - diskpart](diskpart.md)
 
+### [Django](Django.md)
+
 ### [Virtual Box](VirtualBox.md)
 
