@@ -11,3 +11,16 @@ python manage.py migrate
 ```
 manage.py test summary.tests.KPISummaryTests.test_adobe_fake_api_returns_report_not_ready_on_first_attempt
 ```
+
+## Disable HTML escaping
+```
+    <p>Artefact url: {{ url|safe }}</p>
+```
+
+## Disable CSRF token
+```
+from django.views.decorators.csrf import csrf_exempt
+
+@csrf_exempt
+def feature(request):
+```
