@@ -24,3 +24,9 @@ from django.views.decorators.csrf import csrf_exempt
 @csrf_exempt
 def feature(request):
 ```
+
+## Format a date
+
+```
+firstTestLogDate = runLab[0].date_created.strftime("%a %d/%m/%Y %H:%M:%S") # Wed 18 Mar, 2018 15:11:05
+```
