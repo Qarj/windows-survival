@@ -12,3 +12,5 @@
 
 ### [cmd.exe](cmd.md)
 
+### [Python](Python.md)
+
