@@ -1,7 +1,7 @@
 # cmd.exe
 
 To add fonts available to the command prompt, install a True Type font like
-- https://github.com/todylu/monaco.ttf/blob/master/monaco.ttf  (right click -> Install)
+- https://github.com/todylu/monaco.ttf/blob/master/monaco.ttf  (right click -> Install (All Users))
 - https://sourceforge.net/projects/dejavu/
 
 In the registry path `HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueTypeFont`
@@ -15,7 +15,7 @@ Restart the command prompt after editing the registry.
 
 https://superuser.com/questions/390933/how-to-add-a-font-to-the-cmd-window-choices-in-windows-7-64-bit
 
-DejaVu Sans Mono looks pretty good.
+`DejaVu Sans Mono` looks pretty good. Remember to install for all users.
 
 Get others from: https://www.slant.co/topics/7014/~fonts-to-use-in-a-terminal-emulator
 
