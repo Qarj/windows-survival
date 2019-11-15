@@ -4,7 +4,7 @@ https://blogs.technet.microsoft.com/windowsinternals/2017/10/25/windows-10-how-t
 
 From admin command prompt
 ```
-Dism.exe /online /export-defaultappassociations:C:\git\windows-survival\custom_1809.xml
+Dism.exe /online /export-defaultappassociations:C:\git\windows-survival\resources\custom_1809.xml
 ```
 
 ## Windows 10 1809
