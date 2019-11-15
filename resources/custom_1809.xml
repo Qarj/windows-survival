@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DefaultAssociations>
+  <Association Identifier=".3g2" ProgId="VLC.3g2" ApplicationName="VLC media player" />
+  <Association Identifier=".3gp" ProgId="VLC.3gp" ApplicationName="VLC media player" />
+  <Association Identifier=".3gp2" ProgId="VLC.3gp2" ApplicationName="VLC media player" />
+  <Association Identifier=".3gpp" ProgId="VLC.3gpp" ApplicationName="VLC media player" />
+  <Association Identifier=".aac" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier=".ac3" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier=".adt" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier=".adts" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier=".amr" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier=".amv" ProgId="VLC.amv" ApplicationName="VLC media player" />
+  <Association Identifier=".ani" ProgId="IrfanView.ani" ApplicationName="IrfanView 32-bit" />
+  <Association Identifier=".arw" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".asf" ProgId="VLC.asf" ApplicationName="VLC media player" />
+  <Association Identifier=".asx" ProgId="VLC.asx" ApplicationName="VLC media player" />
+  <Association Identifier=".avi" ProgId="VLC.avi" ApplicationName="VLC media player" />
+  <Association Identifier=".bmp" ProgId="IrfanView.bmp" ApplicationName="IrfanView 32-bit" />
+  <Association Identifier=".cr2" ProgId="IrfanView.cr2" ApplicationName="IrfanView 32-bit" />
+  <Association Identifier=".crw" ProgId="IrfanView.crw" ApplicationName="IrfanView 32-bit" />
+  <Association Identifier=".dcx" ProgId="IrfanView.dcx" ApplicationName="IrfanView 32-bit" />
+  <Association Identifier=".dib" ProgId="IrfanView.bmp" ApplicationName="IrfanView 32-bit" />
+  <Association Identifier=".divx" ProgId="VLC.divx" ApplicationName="VLC media player" />
+  <Association Identifier=".dv" ProgId="VLC.dv" ApplicationName="VLC media player" />
+  <Association Identifier=".ec3" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier=".emf" ProgId="IrfanView.emf" ApplicationName="IrfanView 32-bit" />
+  <Association Identifier=".eps" ProgId="IrfanView.eps" ApplicationName="IrfanView 32-bit" />
+  <Association Identifier=".erf" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".evo" ProgId="VLC.evo" ApplicationName="VLC media player" />
+  <Association Identifier=".f4v" ProgId="VLC.f4v" ApplicationName="VLC media player" />
+  <Association Identifier=".fdf" ProgId="FoxitReader.FDFDoc" ApplicationName="Foxit Reader 9.5" />
+  <Association Identifier=".flac" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier=".flv" ProgId="VLC.flv" ApplicationName="VLC media player" />
+  <Association Identifier=".gif" ProgId="IrfanView.gif" ApplicationName="IrfanView 32-bit" />
+  <Association Identifier=".heic" ProgId="IrfanView.heic" ApplicationName="IrfanView 32-bit" />
+  <Association Identifier=".htm" ProgId="AppX4hxtad77fbk3jkkeerkrm0ze94wjf3s9" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".html" ProgId="ChromeHTML" ApplicationName="Google Chrome" />
+  <Association Identifier=".ico" ProgId="IrfanView.ico" ApplicationName="IrfanView 32-bit" />
+  <Association Identifier=".ifo" ProgId="VLC.ifo" ApplicationName="VLC media player" />
+  <Association Identifier=".jfif" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".jpc" ProgId="IrfanView.jp2" ApplicationName="IrfanView 32-bit" />
+  <Association Identifier=".jpe" ProgId="IrfanView.jpg" ApplicationName="IrfanView 32-bit" />
+  <Association Identifier=".jpeg" ProgId="IrfanView.jpg" ApplicationName="IrfanView 32-bit" />
+  <Association Identifier=".jpg" ProgId="IrfanView.jpg" ApplicationName="IrfanView 32-bit" />
+  <Association Identifier=".jxr" ProgId="IrfanView.hdp" ApplicationName="IrfanView 32-bit" />
+  <Association Identifier=".kdc" ProgId="IrfanView.kdc" ApplicationName="IrfanView 32-bit" />
+  <Association Identifier=".lbm" ProgId="IrfanView.iff" ApplicationName="IrfanView 32-bit" />
+  <Association Identifier=".m1v" ProgId="VLC.m1v" ApplicationName="VLC media player" />
+  <Association Identifier=".m2t" ProgId="VLC.m2t" ApplicationName="VLC media player" />
+  <Association Identifier=".m2ts" ProgId="VLC.m2ts" ApplicationName="VLC media player" />
+  <Association Identifier=".M2V" ProgId="VLC.m2v" ApplicationName="VLC media player" />
+  <Association Identifier=".m3u" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier=".m4a" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier=".m4r" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier=".m4v" ProgId="VLC.m4v" ApplicationName="VLC media player" />
+  <Association Identifier=".mka" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier=".mkv" ProgId="VLC.mkv" ApplicationName="VLC media player" />
+  <Association Identifier=".mod" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Films &amp; TV" />
+  <Association Identifier=".mov" ProgId="VLC.mov" ApplicationName="VLC media player" />
+  <Association Identifier=".MP2" ProgId="WMP11.AssocFile.MP3" ApplicationName="Windows Media Player" />
+  <Association Identifier=".mp2v" ProgId="VLC.mp2v" ApplicationName="VLC media player" />
+  <Association Identifier=".mp3" ProgId="VLC.mp3" ApplicationName="VLC media player" />
+  <Association Identifier=".mp4" ProgId="VLC.mp4" ApplicationName="VLC media player" />
+  <Association Identifier=".mp4v" ProgId="VLC.mp4v" ApplicationName="VLC media player" />
+  <Association Identifier=".mpa" ProgId="VLC.mpa" ApplicationName="VLC media player" />
+  <Association Identifier=".MPE" ProgId="VLC.mpe" ApplicationName="VLC media player" />
+  <Association Identifier=".mpeg" ProgId="VLC.mpeg" ApplicationName="VLC media player" />
+  <Association Identifier=".mpg" ProgId="VLC.mpg" ApplicationName="VLC media player" />
+  <Association Identifier=".mpv2" ProgId="VLC.mpv2" ApplicationName="VLC media player" />
+  <Association Identifier=".mrw" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".mts" ProgId="VLC.mts" ApplicationName="VLC media player" />
+  <Association Identifier=".mxf" ProgId="VLC.mxf" ApplicationName="VLC media player" />
+  <Association Identifier=".nef" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".nrw" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".ogg" ProgId="VLC.ogg" ApplicationName="VLC media player" />
+  <Association Identifier=".ogm" ProgId="VLC.ogm" ApplicationName="VLC media player" />
+  <Association Identifier=".ogv" ProgId="VLC.ogv" ApplicationName="VLC media player" />
+  <Association Identifier=".orf" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".pcx" ProgId="IrfanView.pcx" ApplicationName="IrfanView 32-bit" />
+  <Association Identifier=".pdf" ProgId="FoxitReader.Document" ApplicationName="Foxit Reader 9.5" />
+  <Association Identifier=".pef" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".pgm" ProgId="IrfanView.pgm" ApplicationName="IrfanView 32-bit" />
+  <Association Identifier=".pl" ProgId="Perl_program_file" ApplicationName="Perl interpreter" />
+  <Association Identifier=".png" ProgId="IrfanView.png" ApplicationName="IrfanView 32-bit" />
+  <Association Identifier=".ppdf" ProgId="FoxitReader.PPDF" ApplicationName="Foxit Reader 9.5" />
+  <Association Identifier=".ppm" ProgId="IrfanView.ppm" ApplicationName="IrfanView 32-bit" />
+  <Association Identifier=".psd" ProgId="IrfanView.psd" ApplicationName="IrfanView 32-bit" />
+  <Association Identifier=".raf" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".raw" ProgId="IrfanView.raw" ApplicationName="IrfanView 32-bit" />
+  <Association Identifier=".rec" ProgId="VLC.rec" ApplicationName="VLC media player" />
+  <Association Identifier=".rgb" ProgId="IrfanView.sgi" ApplicationName="IrfanView 32-bit" />
+  <Association Identifier=".rle" ProgId="IrfanView.rle" ApplicationName="IrfanView 32-bit" />
+  <Association Identifier=".rm" ProgId="VLC.rm" ApplicationName="VLC media player" />
+  <Association Identifier=".rmvb" ProgId="VLC.rmvb" ApplicationName="VLC media player" />
+  <Association Identifier=".rw2" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".rwl" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".sr2" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".srw" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".tif" ProgId="IrfanView.tif" ApplicationName="IrfanView 32-bit" />
+  <Association Identifier=".tiff" ProgId="IrfanView.tif" ApplicationName="IrfanView 32-bit" />
+  <Association Identifier=".tod" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Films &amp; TV" />
+  <Association Identifier=".tp" ProgId="VLC.tp" ApplicationName="VLC media player" />
+  <Association Identifier=".TS" ProgId="VLC.ts" ApplicationName="VLC media player" />
+  <Association Identifier=".TTS" ProgId="VLC.tts" ApplicationName="VLC media player" />
+  <Association Identifier=".txt" ProgId="Applications\uedit64.exe" ApplicationName="UltraEdit Professional Text/Hex Editor" />
+  <Association Identifier=".url" ProgId="IE.AssocFile.URL" ApplicationName="Internet Browser" />
+  <Association Identifier=".vob" ProgId="VLC.vob" ApplicationName="VLC media player" />
+  <Association Identifier=".wav" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier=".wdp" ProgId="IrfanView.hdp" ApplicationName="IrfanView 32-bit" />
+  <Association Identifier=".webm" ProgId="VLC.webm" ApplicationName="VLC media player" />
+  <Association Identifier=".website" ProgId="IE.AssocFile.WEBSITE" ApplicationName="Internet Explorer" />
+  <Association Identifier=".wm" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Films &amp; TV" />
+  <Association Identifier=".wma" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier=".wmf" ProgId="IrfanView.wmf" ApplicationName="IrfanView 32-bit" />
+  <Association Identifier=".wmv" ProgId="VLC.wmv" ApplicationName="VLC media player" />
+  <Association Identifier=".WPL" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier=".WTV" ProgId="VLC.wtv" ApplicationName="VLC media player" />
+  <Association Identifier=".wvx" ProgId="VLC.wvx" ApplicationName="VLC media player" />
+  <Association Identifier=".xbm" ProgId="IrfanView.xbm" ApplicationName="IrfanView 32-bit" />
+  <Association Identifier=".xdp" ProgId="FoxitReader.XDPDoc" ApplicationName="Foxit Reader 9.5" />
+  <Association Identifier=".xfdf" ProgId="FoxitReader.XFDFDoc" ApplicationName="Foxit Reader 9.5" />
+  <Association Identifier=".xpm" ProgId="IrfanView.xpm" ApplicationName="IrfanView 32-bit" />
+  <Association Identifier=".xvid" ProgId="AppX6eg8h5sxqq90pv53845wmnbewywdqq5h" ApplicationName="Films &amp; TV" />
+  <Association Identifier=".zpl" ProgId="AppXqj98qxeaynz6dv4459ayz6bnqxbyaqcs" ApplicationName="Groove Music" />
+  <Association Identifier="bingmaps" ProgId="AppXp9gkwccvk6fa6yyfq3tmsk8ws2nprk1p" ApplicationName="Maps" />
+  <Association Identifier="http" ProgId="ChromeHTML" ApplicationName="Google Chrome" />
+  <Association Identifier="https" ProgId="ChromeHTML" ApplicationName="Google Chrome" />
+  <Association Identifier="mailto" ProgId="Outlook.URL.mailto.15" ApplicationName="Outlook" />
+  <Association Identifier="microsoft-edge" ProgId="AppX7rm9drdg8sk7vqndwj3sdjw11x96jc0y" ApplicationName="Microsoft Edge" />
+  <Association Identifier="microsoft-edge-holographic" ProgId="AppX3xxs313wwkfjhythsb8q46xdsq8d2cvv" ApplicationName="Microsoft Edge" />
+  <Association Identifier="ms-xbl-3d8b930f" ProgId="AppXdn5b0j699ka5fqvrr3pgjad0evqarm6d" ApplicationName="Microsoft Edge" />
+  <Association Identifier="mswindowsmusic" ProgId="AppXtggqqtcfspt6ks3fjzyfppwc05yxwtwy" ApplicationName="Groove Music" />
+  <Association Identifier="mswindowsvideo" ProgId="AppX6w6n4f8xch1s3vzwf3af6bfe88qhxbza" ApplicationName="Films &amp; TV" />
+</DefaultAssociations>
