@@ -5,6 +5,7 @@ start notepad++ newfile.txt
 ```
 
 ## Themes
+
 Create a themes sub folder so you have: `C:\Program Files\Notepad++\themes`
 
 Restart.
@@ -26,10 +27,14 @@ Then `Import ...` and select your xml file.
 
 Restart.
 
-Then you might need to go into Settings / Style Configurator and check "Enable global background colour"
+Then you might need to go into Settings / Style Configurator and check
+
+-   "Enable global background colour"
+-   "Enable global font"
+-   "Enable global bold font style"
+-   that font name is "DejaVu Sans Mono"
 
 ## Nice settings
 
-- Settings / Preferences / MISC. / Clickable link settings
-- Settings / Preferences / Language / Tab settings
-
+-   Settings / Preferences / MISC. / Clickable link settings
+-   Settings / Preferences / Language / Tab settings
